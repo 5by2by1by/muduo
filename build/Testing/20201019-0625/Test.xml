@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20201019-0625-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.11.4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="iZ2ze06w11kl1lazdoe11pZ"
+	OSRelease="4.18.0-193.19.1.el8_2.x86_64"
+	OSVersion="#1 SMP Mon Sep 14 14:37:00 UTC 2020"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="85"
+	ProcessorCacheSize="33792"
+	NumberOfLogicalCPU="2"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="3778"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2499.98"
+	>
+	<Testing>
+		<StartDateTime>Oct 19 15:36 CST</StartDateTime>
+		<StartTestTime>1603092986</StartTestTime>
+		<TestList>
+			<Test>./muduo/base/tests/timestamp_unittest</Test>
+			<Test>./muduo/base/tests/logstream_test</Test>
+			<Test>./muduo/base/tests/gzipfile_test</Test>
+			<Test>./muduo/base/tests/exception_test</Test>
+			<Test>./muduo/base/tests/fileutil_test</Test>
+			<Test>./muduo/base/tests/atomic_unittest</Test>
+			<Test>./muduo/net/tests/buffer_unittest</Test>
+			<Test>./muduo/base/tests/date_unittest</Test>
+			<Test>./muduo/net/tests/inetaddress_unittest</Test>
+			<Test>./muduo/base/tests/timezone_unittest</Test>
+			<Test>./muduo/net/tests/timerqueue_unittest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>timestamp_unittest</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/timestamp_unittest</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/timestamp_unittest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0739909</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/timestamp_unittest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVz7txxDAMRdGcVbACD0H81Y2d7Dhz/5GpG1ibOnkEMTyAJLF09e6KDzHPiCH/7tSy985e4SJjfaxYuXJ8fb/m6/NnSmz9u7jvv9rkqT3rqe39TTy1PbXrs8DU3ubL008fc12zLbXXmHJNPx+pY+5rbjkdvabUHtPuc0w/h40Z19QeM89x3tZpnjl9zRpypu0hQp4h5//vEUOMdPqHryFJFtl37kUKuUkljXQSu7Ebu/uerFjFKlaxilWsYhWrWGWvYU3uOYY1rGENa1hL3mCNvY519jrWsY51rGOdvY519gY2sIENbGADG9jABjawiU1sYhOb2MQmNrGJTWxhC1vYwha2sIUtbGEL29jGNraxjW1sYxvb2Mb+Av57ncU=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>logstream_test</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/logstream_test</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/logstream_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00825128</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/logstream_test</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Running 10 test cases...
+
+*** No errors detected
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>gzipfile_test</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/gzipfile_test</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/gzipfile_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00500374</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/gzipfile_test</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVz0EKwjAQBdB9TjEXsExmkmnTnaAVNyp050ZKG0qhqNSA4OlttyUB3X0YePM/IaFG7QDzkqUkyYhcYd0VmO18gOOpOgMEP46AsIHDZ3hWw+hvwb9C1ralNopihkO9Mt7TI3gQHVVsQhETa5JARC1xuPcw+abzU8xkRF43S68jUQs1P1RdExrQxMZKXszr/k6JNoZ/X8hGXbZ1vd+pL63ZbuE=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>exception_test</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/exception_test</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/exception_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00522069</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/exception_test</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJztVk2L2zAQvedXGArB3oaNP+XEhEC3pJBD9+JbSxGyJHfF2pax5ZCl9L9Xku3shpKuUvbSpAQsWdFo3ryZeXIqEH5MJnNR1vOyIx2fZx0ryDxj1ZzuMa0F4xUUtBX2HWqSRM9aQZJkR7HgzUrPIcT7veclSYZahmErGlZ9X+EH1MwsvUFNoWgQE61eXg/rqCg4RuocvWr9vv7G56uf897dB75jfXX3oRtFCH0zij/n3Fam/mI09TE1My0Rq6QlHQ0DN5OGBctAqJ74tuW3wIZQzWV0qBFwMMkDbRPnAHmxS+UQmLnsj1FwD149KuFOUpVxi1UtI9QqUJkRdG35T5IffeC28877mSS8po3aZDu2Y2FetYo378BbuPDNOL8chmT8sXfoELq83g7RJOVdhZXhNTeKb9AouWG2e6yfBlbhA6pIQZvVjjNi2c7MulQG1/L8z5BVO/5IBxI+VE+QIIF6Oqe6fdyRUOQa3k1HVTryuD6RsOe7bwHAFSrbIh/jB2585comrckZqoYlqZk8Q5Px3PhxFJoh05U5pLVvA8jKutAVO7P6utWObqbOIAQ307V9bFHSUpY6JLSh+UkjBRCAASCIcnKOMo2eGtp2hVidwiVb4qmmx/Gc3Gz/AWgQH4DG0dlM3skcHrlVw43jaAWQ7SNzNhA8s9yuGOgUXV3Q1Xo6HdoFbitC97BfVtsUsHCsdxAuF28L7FmaVn0S132HhaNHPzcUp9duk1fBWOfqcu7j/7r85rpM0UGXgeEX94XockNRK78uLc7rdtJqkZbEYWqmzPDLfaS3LDfjHx+9zX0q4iFHnv8yR1ucCs97kZ0t3qRIPjYbCS0iY/8h11CKpP9AFmKoXjapAH0Vbv8GgBxSADUQz48P5bDMTZEEsiJ2/35B/AK9TQON====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>fileutil_test</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/fileutil_test</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/fileutil_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00468635</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/fileutil_test</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJwzMlQwUDDgMoJQBgrGpmAKwjE0MDIBScIYEBEDA1QmAGL0Co0=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>atomic_unittest</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/atomic_unittest</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/atomic_unittest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00285038</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/atomic_unittest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value></Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>buffer_unittest</Name>
+			<Path>./muduo/net/tests</Path>
+			<FullName>./muduo/net/tests/buffer_unittest</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/buffer_unittest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00512004</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/buffer_unittest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Running 8 test cases...
+
+*** No errors detected
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>date_unittest</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/date_unittest</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/date_unittest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.130643</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/date_unittest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJwzMjCw0DWw1DU04DLCwTQyANK6hpbITMecHIWCxOLi1BQ9LgCoLg3A====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>inetaddress_unittest</Name>
+			<Path>./muduo/net/tests</Path>
+			<FullName>./muduo/net/tests/inetaddress_unittest</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/inetaddress_unittest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0342576</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/inetaddress_unittest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJwVzb0KwjAUBtA9T/HNBS83SX+zuQhdKji6iCSXUmgTSFKfX90PnMcZ4xZXGFQpFf5dpBCRMmxYs57Ag7O9Mz2Z0XZsn7C209xjXm53YE1p3YV8OpClpP0jATWhm8i0ZEkPrRsZF8xR6jWEnymvM271n5H3rtVKNU2DJUFyTrkgSBVfJagvHqMs+g==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>timezone_unittest</Name>
+			<Path>./muduo/base/tests</Path>
+			<FullName>./muduo/base/tests/timezone_unittest</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/timezone_unittest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>13.7478</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/timezone_unittest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyFl91q3DAQhe/7FL5MKAKNbEvWXhTSH1IobaEp9P3fpPqxR9boaBL2Ihzx+axGX7RZZ603djU2LNY+ymsxnxZ3xX6hWGNjd2ufvr39ff5QVzdj3WL9Y4/p1aAaU40nUJBNNV6vpi1DXxnajSXw9jaz2vTrHCrvQ0DlWY4wRNa41LQL6IwVKGaoH8QZ8yAg5EFTvDX102NIbxKQMyuBphrDppBmBEdeIWxEwBoFVaOySiT3xDHcE6+GsSnHUKOANQqqRgFrFFSNQj6QddCI4xmURr5JjTiGGvGql00XBEfOkN4kIKRRUDU6sEZB1ShijaKqUV095J44hnvi1QCajolGEWsUVY0i1iiqGkWsUVQ1iuUUSWrEMdSIV71suiA4cob0JgEhjaKmUdou1ChqGmUoXQargM7YqZD802gx2lNbDaBpwxrlVaBRjucanZDUiJ8FNUqr+UC80KjFChSERi1GGrVVD5rC9HAZ0psEBDRqMWwiqBFD2Agql8EApdgZd2hQdq/fE8dwT7waZFONoUaENSJVI8IakaoRNY36PbFGwAhe9aJJutcPgiG9SUDICFKNcNgIet8I58HIu/ijTT9Prz/vUPlQG4y4xRNoOKcau6uJEvS5DcLmox+azpiuJgjJpj7u354TjzwhGcs91dk6B0fuHG6C5yTjAUpj2gDUxQja5fRkPIEINO2TcypjSjfI0HTG8Jxuq31TH4Nzuj1y2iQgdE4y7qEVn5OMb9C/P79/vT6W+e18xXRtjfI8XsoF08HlCyTJyynHaz6BukUdllcHw2ezLfDbDNabJ/D8Ina3PWO4/GM07jnH7Qv4O/BwXdr7F/HZwCZunCcYR/g+EvBRlePjkuNI1PcfFdowtEHoS97jf/BHPjQ=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>timerqueue_unittest</Name>
+			<Path>./muduo/net/tests</Path>
+			<FullName>./muduo/net/tests/timerqueue_unittest</FullName>
+			<FullCommandLine>/tmp/muduo/build/bin/timerqueue_unittest</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>29.0135</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp/muduo/build/bin/timerqueue_unittest</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJx9kk1uhDAMhfecIgeoRnEcJ/aih0FD1CIxMJpB/bl9E6NOIU27A39+z8+Kr+Ngng0iWQlPZt39dfPybiBYtOKEwwk8EEN3ub/8VGOpso3m0o/zEXFB4tks8zlBzQKBR9nYiY5UVOnYpLd0+3Q1DAWCSl0lFatSgE2KNSxSiyrFWgpZKg+p68597pqmNJh+3XchuUDhTyzeCfDRGjVVxGYq1LlErW2FFDI0YXkSZ+Nj2XYk7WKptPnhyObvprEopPgborVQIEBDmSEq/N60glSgw8amGWoghPZMDYTcnAkayKP7B1LQAzXTslxN+hjXe3dt3z1Eu7v7bOCLAQsfbWmrRrO+3lI/7I2/AHWv1lg=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 19 15:36 CST</EndDateTime>
+		<EndTestTime>1603093015</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

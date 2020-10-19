@@ -1,0 +1,12 @@
+atomic_unittest 2 0.00749424
+date_unittest 2 0.0997562
+exception_test 2 0.00935394
+fileutil_test 2 0.00901848
+gzipfile_test 2 0.0138384
+logstream_test 2 0.0334345
+timestamp_unittest 2 0.0797884
+timezone_unittest 2 13.5322
+buffer_unittest 2 0.00846072
+inetaddress_unittest 2 0.0217148
+timerqueue_unittest 2 30.0118
+---
